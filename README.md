@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Clone `reactbaristacoffee`
+
+Clone the `reactbaristacoffee` repository using git:
+
+```
+git clone https://github.com/mohitagarwal2599/reactbaristacoffee.git
+cd reactbaristacoffee
+```
+
 In the project directory, you can run:
 
 ### `npm start`
@@ -14,3 +23,33 @@ You may also see any lint errors in the console.
 ### `npm run build`
 
 Builds this app for production to the `build` folder.\
+
+### Screenshots of flow of application
+
+### 1.Price list of coffees
+![alt text](https://github.com/mohitagarwal2599/baristacoffee/blob/main/app/img/bc-prices.png?raw=true)
+
+
+### 2.User list with total payment, total amount and balance
+![alt text](https://github.com/mohitagarwal2599/baristacoffee/blob/main/app/img/bc-users.png?raw=true)
+
+
+### 3.Order list with user name, coffee name, size and price
+![alt text](https://github.com/mohitagarwal2599/baristacoffee/blob/main/app/img/bc-all-orders.png?raw=true)
+
+
+### 4.Orders of single user having coffee name, size and price
+![alt text](https://github.com/mohitagarwal2599/baristacoffee/blob/main/app/img/bc-single-customer-order.png?raw=true)
+
+
+### 5.Payment list of all user having user name and payment amount
+![alt text](https://github.com/mohitagarwal2599/baristacoffee/blob/main/app/img/bc-all-payments.png?raw=true)
+
+
+### 6.Payments of single user having user name and payment amount
+![alt text](https://github.com/mohitagarwal2599/baristacoffee/blob/main/app/img/bc-single-user-payents.png?raw=true)
+
+
+### To check JSON string containing the results of this work.
+
+Open the console of application there you will get the final JSON data of complete application
