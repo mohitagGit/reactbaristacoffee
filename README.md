@@ -30,26 +30,32 @@ Builds this app for production to the `build` folder.\
 ![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/coffee-page.png?raw=true)
 
 
+
 ### 2.User list with total payment, total amount and balance
 ![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/users-list.png?raw=true)
+
 
 
 ### 3.Order list with user name, coffee name, size and price
 ![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/orders-list.png?raw=true)
 
 
+
 ### 4.Orders of single user having coffee name, size and price
 ![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/users-orders.png?raw=true)
+
 
 
 ### 5.Payment list of all user having user name and payment amount
 ![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/payment-list.png?raw=true)
 
 
+
 ### 6.Payments of single user having user name and payment amount
 ![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/user-payments.png?raw=true)
 
 
-### To check JSON string containing the results of this work.
+### 7.To check JSON string containing the results of this work as per user.
+![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/json-data.png?raw=true)
 
 Open the console of application there you will get the final JSON data of complete application
