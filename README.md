@@ -4,25 +4,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Clone `reactbaristacoffee`
 
+
 Clone the `reactbaristacoffee` repository using git:
+
 
 ```
 git clone https://github.com/mohitagarwal2599/reactbaristacoffee.git
 cd reactbaristacoffee
 ```
 
-In the project directory, you can run:
+
+In the project directory, run:
 
 ### `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm run build`
-
-Builds this app for production to the `build` folder.\
 
 ### Screenshots of flow of application
 
