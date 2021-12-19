@@ -27,27 +27,27 @@ Builds this app for production to the `build` folder.\
 ### Screenshots of flow of application
 
 ### 1.Price list of coffees
-![alt text](https://github.com/mohitagarwal2599/baristacoffee/blob/main/app/img/bc-prices.png?raw=true)
+![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/coffee-page.png?raw=true)
 
 
 ### 2.User list with total payment, total amount and balance
-![alt text](https://github.com/mohitagarwal2599/baristacoffee/blob/main/app/img/bc-users.png?raw=true)
+![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/users-list.png?raw=true)
 
 
 ### 3.Order list with user name, coffee name, size and price
-![alt text](https://github.com/mohitagarwal2599/baristacoffee/blob/main/app/img/bc-all-orders.png?raw=true)
+![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/orders-list.png?raw=true)
 
 
 ### 4.Orders of single user having coffee name, size and price
-![alt text](https://github.com/mohitagarwal2599/baristacoffee/blob/main/app/img/bc-single-customer-order.png?raw=true)
+![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/users-orders.png?raw=true)
 
 
 ### 5.Payment list of all user having user name and payment amount
-![alt text](https://github.com/mohitagarwal2599/baristacoffee/blob/main/app/img/bc-all-payments.png?raw=true)
+![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/payment-list.png?raw=true)
 
 
 ### 6.Payments of single user having user name and payment amount
-![alt text](https://github.com/mohitagarwal2599/baristacoffee/blob/main/app/img/bc-single-user-payents.png?raw=true)
+![alt text](https://github.com/mohitagarwal2599/reactbaristacoffee/blob/master/src/img/user-payments.png?raw=true)
 
 
 ### To check JSON string containing the results of this work.
